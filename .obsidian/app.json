@@ -3,6 +3,6 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "useTab": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": true
 }
